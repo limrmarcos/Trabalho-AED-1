@@ -1,5 +1,5 @@
 # Primeiro Trabalho Prático - AED1
-## Informação Pessoal
+## Informações Pessoais
 <p> Nome        : Marcos Lima Alves</p> 
 <p> Turma       : M2 </p>
 <p> Matrícula   : 21200592</p>
