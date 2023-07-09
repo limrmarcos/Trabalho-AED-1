@@ -7,8 +7,8 @@
 <p> E-mail      : mlalves@inf.ufpel.edu.br</p> 
 
 ## A Maior Substring Legal
-### Longest Nice Substring
-<p>Dado uma sequência de caracteres __a__ era preciso achar todas as ocorrências no alfabeto em todas as letras tivessem maiúsculas e minúsculas, retornando a maior e que viesse primeiro (caso haja mais de uma de mesmo tamanho)</p> 
+### (Longest Nice Substring)
+
 
 ## Descrição
 <p>Pouquíssima coisa foi aproveitada do código feito em aula, haviam muitas coisas desnecessárias ou que apenas dificultariam grandemente a resolução do problema. Foram feitas muitas outras tentativas com abordagens distintas antes dessa versão.</p>
