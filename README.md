@@ -1,15 +1,15 @@
 # Primeiro Trabalho Prático - AED1
-## Informção Pessoal
+## Informação Pessoal
 
-Nome        : Marcos Lima Alves 
-Turma       : M2
-Matrícula   : 21200592
-Discord     : Poty#8313
-E-mail      : mlalves@inf.ufpel.edu.br
+### Nome        : Marcos Lima Alves 
+### Turma       : M2
+### Matrícula   : 21200592
+### Discord     : Poty#8313
+### E-mail      : mlalves@inf.ufpel.edu.br
 
 ## A Maior Substring Legal
 
-		Dado uma sequência de caracteres __a__ era preciso achar todas as ocorrências no alfabeto em todas as letras tivessem maiúsculas e minúsculas, retornando a maior e que viesse primeiro (caso haja mais de uma de mesmo tamanho) 
+Dado uma sequência de caracteres __a__ era preciso achar todas as ocorrências no alfabeto em todas as letras tivessem maiúsculas e minúsculas, retornando a maior e que viesse primeiro (caso haja mais de uma de mesmo tamanho) 
 
 
 
