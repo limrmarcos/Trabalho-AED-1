@@ -31,19 +31,19 @@ char * longestNiceSubstring( char * s ) {
     char * aux = ( char * ) malloc ( strlen( s ) + 1 );
     char * temp = NULL;
 
-    for( int c = 0; c < strlen( s ); c++ ) {
-        for( int co = c + 1; co < strlen( s ); co++ ) {
+    for( int i = 0; i < strlen( s ); i++ ) {
+        for( int j = i + 1; j < strlen( s ); j++ ) {
             bool isNice = true;
-            int length = co - c + 1;
-            strncpy( aux, &s[c], length );
+            int length = j - i + 1;
+            strncpy( aux, &s[i], length );
             aux[length] = '\0';
 
-            for( int con = c; con < co; con++ ) {
-                if( islower( s[con] ) && !strchr( s, toupper( s[con] ) ) ) {
+            for( int k = i; k < j; k++ ) {
+                if( islower( s[k] ) && !strchr( s, toupper( s[k] ) ) ) {
                     isNice = false;
                     break;
                 }
-                if( isupper( s[con] ) && !strchr( s, tolower( s[con] ) ) ) {
+                if( isupper( s[k] ) && !strchr( s, tolower( s[k] ) ) ) {
                     isNice = false;
                     break;
                 }
