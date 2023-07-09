@@ -1,7 +1,7 @@
 # Primeiro Trabalho Prático - AED1
 ## Informação Pessoal
 
-### Nome        : Marcos Lima Alves 
+<p> Nome        : Marcos Lima Alves</p> 
 ### Turma       : M2
 ### Matrícula   : 21200592
 ### Discord     : Poty#8313
