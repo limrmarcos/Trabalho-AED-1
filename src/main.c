@@ -10,6 +10,7 @@ bool noLowerCase( char * s );
 
 int main( void ) {
     char s[100];
+    printf( "Digite a palavra: " );
     scanf( "%s", s );
 
     char * result = longestNiceSubstring( s );
